@@ -23,5 +23,7 @@ email: savio591@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Trabalhos, atividades e artigos sobre Tecnologia em Design de Produtos.
 
+baseurl: /ueap/
+
 # Build settings
 remote_theme: pages-themes/cayman
