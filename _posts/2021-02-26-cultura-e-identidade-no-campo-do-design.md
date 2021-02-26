@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Cultura e identidade cultural no campo do Design"
 ---
 
