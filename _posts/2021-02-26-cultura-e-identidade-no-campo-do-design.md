@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+remote_theme: pages-themes/cayman
+title:  "Oi!"
 ---
 
 # Welcome
